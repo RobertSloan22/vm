@@ -2,7 +2,7 @@
   "name": "littletiers",
   "version": "1.0.0",
   "description": "little tiers",
-  "main": "http_server.js",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -23,5 +23,6 @@
     "faker": "^6.6.6",
     "lowdash": "^1.2.0",
     "lowdb": "^1.0.0"
-  }
+  },
+  "devDependencies": {}
 }
